@@ -1,1 +1,1 @@
-# https-shodor-education.github.io-interactivate/activities/AdjustableSpinner/
+# html-shodor-education.github.io-interactivate/activities/AdjustableSpinner/
